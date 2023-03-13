@@ -36,6 +36,7 @@ variable2=temp
 print("Swapped values are:",variable1,variable2)
 ```
 ## output:
+![image](https://user-images.githubusercontent.com/118350045/224713480-f6abf28a-11d0-4541-a462-d305fba24778.png)
 
 
 ## RESULT:
